@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Luca Blanco Marchese 👋
+
+- 🔭 I’m currently working on a productivity project to enhance efficient workflow.
 
 <!--
 **lucablancomarchese/lucablancomarchese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
